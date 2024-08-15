@@ -1,6 +1,6 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Goal 6
+subtitle: This is goal 6
 layout: default
 modal-id: 5
 date: 2014-07-14

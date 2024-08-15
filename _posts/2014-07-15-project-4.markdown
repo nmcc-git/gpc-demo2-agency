@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Goal 4
+subtitle: This is goal 4
 layout: default
 modal-id: 4
 date: 2014-07-15

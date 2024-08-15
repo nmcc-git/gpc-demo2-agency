@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Goal 1
+subtitle: This is goal 1
 layout: default
 modal-id: 1
 date: 2014-07-18

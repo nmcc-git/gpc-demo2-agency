@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Goal 3
+subtitle: This is goal 3
 layout: default
 modal-id: 3
 date: 2014-07-16
